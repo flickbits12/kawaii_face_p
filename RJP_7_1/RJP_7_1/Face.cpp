@@ -16,6 +16,7 @@ void Face::initialize()
 	eye_reset_count = 0;
 	eye_open_count = 0;
 	eye_switch_value = 200;
+	printf("UNKO");
 }
 
 void Face::face_draw()
